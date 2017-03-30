@@ -1,0 +1,5 @@
+DEPENDENCIES
+  selinux
+
+GRAPH
+  selinux (1.0.3)
